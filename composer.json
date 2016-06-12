@@ -1,0 +1,11 @@
+{
+  "name": "evista/wp-comp-plug-pack",
+  "type": "wordpress-plugin",
+  "homepage": "http://digital-agency.com",
+  "license": "GPLv3",
+  "description": "Evista Dedicated Plugin",
+  "keywords": ["plugin","evista"],
+  "require": {
+    "composer/installers": "~1.0.6"
+  }
+}
