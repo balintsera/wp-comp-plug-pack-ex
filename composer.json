@@ -1,8 +1,8 @@
 {
   "name": "evista/wp-comp-plug-pack",
   "type": "wordpress-plugin",
-  "homepage": "http://digital-agency.com",
-  "license": "GPLv3",
+  "homepage": "https://github.com/balintsera/wp-comp-plug-pack-ex",
+  "license": "MIT",
   "description": "Evista Dedicated Plugin",
   "keywords": ["plugin","evista"],
   "require": {
